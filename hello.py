@@ -14,7 +14,7 @@
 
 import streamlit as st
 
-st.set_page_config(page_title="Hello", page_icon=":material/waving_hand:")
+st.set_page_config(page_title="Hello -> Edit 2.0", page_icon=":material/waving_hand:")
 st.title("Welcome to Streamlit! 👋")
 st.write(
     """
